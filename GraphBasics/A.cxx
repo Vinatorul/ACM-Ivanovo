@@ -1,3 +1,6 @@
+// Задача №164. Обход графа
+// https://informatics.mccme.ru/mod/statements/view3.php?chapterid=164
+
 #include <bits/stdc++.h>
 using namespace std;
 

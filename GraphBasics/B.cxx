@@ -1,3 +1,6 @@
+// Задача №98. Есть ли цикл?
+// https://informatics.mccme.ru/mod/statements/view3.php?chapterid=98
+
 #include <bits/stdc++.h>
 using namespace std;
 

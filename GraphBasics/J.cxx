@@ -1,3 +1,6 @@
+// Задача №165. Банкет
+// https://informatics.mccme.ru/mod/statements/view3.php?chapterid=165
+
 #include <bits/stdc++.h>
 using namespace std;
 

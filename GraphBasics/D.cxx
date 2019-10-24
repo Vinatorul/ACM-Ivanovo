@@ -1,3 +1,6 @@
+// Задача №166. Построение
+// https://informatics.mccme.ru/mod/statements/view3.php?chapterid=166
+
 #include <bits/stdc++.h>
 using namespace std;
 
